@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		282EA6EA24AF27CD008FB3E6 /* WinnerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 282EA6E924AF27CD008FB3E6 /* WinnerViewController.swift */; };
+		28B1696224C5839500E1398E /* WinnersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B1696124C5839500E1398E /* WinnersViewController.swift */; };
 		28C526EC24ACE0EF0095A9E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C526EB24ACE0EF0095A9E0 /* AppDelegate.swift */; };
 		28C526EE24ACE0EF0095A9E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C526ED24ACE0EF0095A9E0 /* SceneDelegate.swift */; };
 		28C526F024ACE0EF0095A9E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C526EF24ACE0EF0095A9E0 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		282EA6E924AF27CD008FB3E6 /* WinnerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnerViewController.swift; sourceTree = "<group>"; };
+		28B1696124C5839500E1398E /* WinnersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnersViewController.swift; sourceTree = "<group>"; };
 		28C526E824ACE0EF0095A9E0 /* projectCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = projectCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28C526EB24ACE0EF0095A9E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28C526ED24ACE0EF0095A9E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				28C526FC24ACE0F10095A9E0 /* Info.plist */,
 				28C526F424ACE0EF0095A9E0 /* projectCoreData.xcdatamodeld */,
 				282EA6E924AF27CD008FB3E6 /* WinnerViewController.swift */,
+				28B1696124C5839500E1398E /* WinnersViewController.swift */,
 			);
 			path = projectCoreData;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				28C526F024ACE0EF0095A9E0 /* ViewController.swift in Sources */,
 				28C526EC24ACE0EF0095A9E0 /* AppDelegate.swift in Sources */,
 				28C526F624ACE0F00095A9E0 /* projectCoreData.xcdatamodeld in Sources */,
+				28B1696224C5839500E1398E /* WinnersViewController.swift in Sources */,
 				28C526EE24ACE0EF0095A9E0 /* SceneDelegate.swift in Sources */,
 				282EA6EA24AF27CD008FB3E6 /* WinnerViewController.swift in Sources */,
 			);
